@@ -8,3 +8,6 @@ Revision history for Geonode-Free-ProxyList
 
 0.0.3    2021-09-26
          Adding requires & minor fixes.
+
+0.0.4    2021-09-26
+         Bump up required perl version to 5.010.
