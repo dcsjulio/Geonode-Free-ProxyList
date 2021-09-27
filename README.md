@@ -6,7 +6,7 @@ Geonode::Free::ProxyList - Get Free Geonode Proxies by using some filters
 
 # VERSION
 
-Version 0.0.4
+Version 0.0.5
 
 # SYNOPSIS
 

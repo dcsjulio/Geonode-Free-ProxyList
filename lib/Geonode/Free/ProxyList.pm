@@ -18,11 +18,11 @@ Geonode::Free::ProxyList - Get Free Geonode Proxies by using some filters
 
 =head1 VERSION
 
-Version 0.0.4
+Version 0.0.5
 
 =cut
 
-our $VERSION = '0.0.4';
+our $VERSION = '0.0.5';
 
 my $API_ROOT = 'https://proxylist.geonode.com/api/proxy-list?';
 

@@ -13,11 +13,11 @@ Note: this a companion module for Geonode::Free::ProxyList
 
 =head1 VERSION
 
-Version 0.0.4
+Version 0.0.5
 
 =cut
 
-our $VERSION = '0.0.4';
+our $VERSION = '0.0.5';
 
 my $preferred_method = 'socks';
 

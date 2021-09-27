@@ -14,7 +14,10 @@ my %WriteMakefileArgs = (
         'ExtUtils::MakeMaker' => '0',
     },
     TEST_REQUIRES => {
-        'Test::More' => '0',
+        'Test::More'      => '0',
+        'Test::Exception' => '0',
+        'List::MoreUtils' => '0',
+        'LWP::UserAgent'  => '0',
     },
     PREREQ_PM => {
         #'ABC'              => '1.6',
